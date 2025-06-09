@@ -1,0 +1,5 @@
+Obje 1 - Piksel Kaymasi (Disparity): 55.77 px
+Obje 2 - Piksel Kaymasi (Disparity): 10.97 px
+Obje 3 - Piksel Kaymasi (Disparity): 20.35 px
+Obje 4 - Piksel Kaymasi (Disparity): 15.06 px
+Obje 5 - Piksel Kaymasi (Disparity): 25.64 px

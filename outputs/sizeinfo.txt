@@ -1,0 +1,2 @@
+org_img size: 4080 x 3060 x 3
+shif_img size: 4080 x 3060 x 3

@@ -1,0 +1,30 @@
+Obje 1:
+ - Alan: 454947.00 px^2
+ - MajorAxis: 817.22 px
+ - MinorAxis: 719.18 px
+ - Orientation: 44.84 derece
+
+Obje 2:
+ - Alan: 47950.00 px^2
+ - MajorAxis: 270.88 px
+ - MinorAxis: 226.36 px
+ - Orientation: -61.92 derece
+
+Obje 3:
+ - Alan: 250878.00 px^2
+ - MajorAxis: 675.42 px
+ - MinorAxis: 492.50 px
+ - Orientation: -4.40 derece
+
+Obje 4:
+ - Alan: 463270.00 px^2
+ - MajorAxis: 948.17 px
+ - MinorAxis: 649.66 px
+ - Orientation: -46.54 derece
+
+Obje 5:
+ - Alan: 325066.00 px^2
+ - MajorAxis: 792.28 px
+ - MinorAxis: 534.14 px
+ - Orientation: 30.39 derece
+
